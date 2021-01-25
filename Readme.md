@@ -1,4 +1,4 @@
-# Todolist Backend
+# Simple Todolist Backend
 
 These are the repositories for backend api of todolist app. Create with expressjs and mysql
 
